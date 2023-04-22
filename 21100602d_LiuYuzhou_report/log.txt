@@ -1,0 +1,140 @@
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 09:58:41', '400 Bad Request', ]
+The file he/she retrieved:
+[]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 09:59:55', '400 Bad Request', ]
+The file he/she retrieved:
+[]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:00:03', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:00:31', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:00:42', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:00:44', '200 OK', ]
+The file he/she retrieved:
+['/Helloworld.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:00:45', '200 OK', ]
+The file he/she retrieved:
+['/image.jpg', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 10:01:48', '404 Not Found', ]
+The file he/she retrieved:
+[]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:07:43', '404 Not Found', ]
+The file he/she retrieved:
+[]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:07:51', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:08:14', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:08:42', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:09:09', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:09:22', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:10:23', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:11:29', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:12:32', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:13:08', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:14:08', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:15:07', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:16:51', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:18:57', '304 Not Modified', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:24:24', '304 Not Modified', ]
+The file he/she retrieved:
+['/image.jpg', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:31:32', '200 OK', ]
+The file he/she retrieved:
+['/index.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:31:44', '200 OK', ]
+The file he/she retrieved:
+['/Helloworld.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:31:44', '200 OK', ]
+The file he/she retrieved:
+['/image.jpg', ]
+
+ip_address,access time and return status
+['Thu, 13 Apr 2023 12:32:20', '200 OK', ]
+The file he/she retrieved:
+['/Helloworld.html', ]
+
+ip_address,access time and return status
+['127.0.0.1', 'Thu, 13 Apr 2023 12:32:21', '200 OK', ]
+The file he/she retrieved:
+['/image.jpg', ]
+
